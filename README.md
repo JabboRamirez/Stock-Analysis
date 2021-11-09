@@ -1,5 +1,5 @@
 Overview of Project
-For the Module 2 challenge, I used my knowledge on VBA to refactor the Stocks Analysis code from Module 2. This will allow the code to run for much larger datasets without having to worry about the code taking a long time to execute.
+For this Challenge I had to use my limited knowledge on VBA to show the Stocks Analysis code from Module 2. This will allow the code to run for much larger datasets without having to worry about the code taking a long time to execute.
 
 Results
 Original Code
@@ -248,7 +248,7 @@ For the year 2017, the runtime went from ~0.859 seconds to ~0.156 seconds. The r
 For the year 2018, the runtime went from ~0.867 to seconds to 0.164 seconds. The runtime is ~81% faster.
 
 Summary
-Advantages and disadvantages of refactoring code
+
 Advantages
 The advantages of refactoring code are that it improves the design of your code, makes your program run faster and run for larger sets of data. The disadvantages of refactoring code are that it can be time consuming, there might not be a more efficient way to write the code so it could be a waste of time, and it could introduce bugs in your code causing it to not run properly or at all.
 
